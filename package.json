@@ -4,7 +4,8 @@
   "description": "API list of moreliahacks open data created",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/moreliahacks/api-list#readme",
   "dependencies": {
-    "bool.js": "^0.4.2"
+    "bool.js": "^0.4.2",
+    "request-promise": "^1.0.2"
   }
 }

@@ -5,4 +5,6 @@ var booljs = require('bool.js');
 booljs('org.moreliahacks.list')
     .setServerLoader('booljs-express')
     .setDatabaseLoader('booljs-nomodel')
-    .run();
+    .run().catch(function(data){
+        console.log(data);
+    });

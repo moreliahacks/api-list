@@ -2,13 +2,13 @@
 
 module.exports = function (app) {
 
-    var dog = new app.controllers.Dog();
+    var service = new app.controllers.Service();
 
     return [
         {
             method: 'get',
-            url: '/dog',
-            action: dog.list,
+            url: '/service',
+            action: service.list,
             cors: true
         }
     ];
