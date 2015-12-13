@@ -10,11 +10,10 @@ module.exports = function (app) {
                 method: "GET",
                 headers: {
                     'User-Agent': 'Morelia-Hacks-App'
-                }
+                },
+                json: true
             }).then(function(data){
-                return {
-                    respos: data
-                };
+                return data;
             });
         }
     };
