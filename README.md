@@ -26,7 +26,7 @@ La API está disponible para todos los usuarios. En general, el procesamiento de
 
 ### ¿Existe algun demo?
 
-Por el momento se puede consultar un demo de la aplicacion, [DEMO](moreliahacks-service-list.herokuapp.com/service)
+Por el momento se puede consultar un demo de la aplicacion, [DEMO](https://moreliahacks-service-list.herokuapp.com/service)
 
 ### Licencia
 
