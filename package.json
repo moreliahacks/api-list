@@ -1,0 +1,27 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "API list of moreliahacks open data created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moreliahacks/api-list.git"
+  },
+  "keywords": [
+    "list",
+    "services",
+    "moreliahacks"
+  ],
+  "author": "Sebastián Osorio <im@svzosorio.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moreliahacks/api-list/issues"
+  },
+  "homepage": "https://github.com/moreliahacks/api-list#readme",
+  "dependencies": {
+    "bool.js": "^0.4.2"
+  }
+}
