@@ -22,7 +22,7 @@ La API está disponible para todos los usuarios. En general, el procesamiento de
 
 ### ¿Qué formatos de retorno son compatibles?
 
-	API-SENTIMENTAL-LANGUAJE actualmente devuelve datos en formato JSON.
+	API-LIST actualmente devuelve datos en formato JSON.
 
 ### ¿Existe algun demo?
 
